@@ -3,8 +3,13 @@
 ![Obsidian](https://img.shields.io/badge/Obsidian-483699?logo=obsidian&logoColor=white)
 ![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?logo=anthropic&logoColor=white)
 ![Pattern](https://img.shields.io/badge/pattern-LLM%20Wiki-2563EB)
-![Visibility](https://img.shields.io/badge/visibility-private-6e7681)
 ![Made with Markdown](https://img.shields.io/badge/made%20with-Markdown-000000?logo=markdown&logoColor=white)
+
+[![Last commit](https://img.shields.io/github/last-commit/junkicho-lab/hermes-vault)](https://github.com/junkicho-lab/hermes-vault/commits/main)
+![Repo size](https://img.shields.io/github/repo-size/junkicho-lab/hermes-vault)
+![Top language](https://img.shields.io/github/languages/top/junkicho-lab/hermes-vault)
+![Commit activity](https://img.shields.io/github/commit-activity/m/junkicho-lab/hermes-vault)
+[![Stars](https://img.shields.io/github/stars/junkicho-lab/hermes-vault?style=social)](https://github.com/junkicho-lab/hermes-vault/stargazers)
 
 > 외부 정보를 **모으지 않고**, 내 원칙으로 **변환**하는 옵시디언 + 클로드 코드 기반 지식관리(PKM) 볼트.
 
