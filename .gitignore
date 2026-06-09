@@ -1,0 +1,15 @@
+# 에이전트 락 (로컬 전용 — 동기화/추적 금지)
+.vault.lock/
+
+# macOS Finder 노이즈
+.DS_Store
+
+# 옵시디언 — 기기마다 다른 UI 상태(충돌 단골) 제외 (모든 하위 .obsidian 포함)
+**/workspace.json
+**/workspace-mobile.json
+
+# 동기화 충돌 사본 (로컬 보존, 저장소 추적 제외)
+Rules/README 1.md
+Rules/hermes-multi-agent-wiki(original)/
+Rules/hermes-multi-agent-wiki/
+
